@@ -15,3 +15,5 @@ THEN user can save my initials and score
 The URL of the functional, deployed application: https://chitizpanday.github.io/Code_Quiz2/
 
 The URL of the GitHub repository: https://github.com/chitizpanday/Code_Quiz2
+
+![Screenshot (49)](https://user-images.githubusercontent.com/105695567/175786303-c6e8843a-6136-4aa1-95a4-ee489113a316.png)
