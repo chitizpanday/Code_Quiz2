@@ -12,6 +12,6 @@ THEN the game is over
 WHEN the game is over
 THEN user can save my initials and score
 
-The URL of the functional, deployed application:  https://chitizpanday.github.io/Code_Quiz/
+The URL of the functional, deployed application: https://chitizpanday.github.io/Code_Quiz2/
 
-The URL of the GitHub repository: https://github.com/chitizpanday/Code_Quiz
+The URL of the GitHub repository: https://github.com/chitizpanday/Code_Quiz2
